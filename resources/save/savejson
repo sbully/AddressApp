@@ -1,0 +1,532 @@
+[ {
+  "firstName" : "Hans",
+  "lastName" : "Muster",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+}, {
+  "firstName" : "Ruth",
+  "lastName" : "Mueller",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+}, {
+  "firstName" : "Heinz",
+  "lastName" : "Kurz",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+}, {
+  "firstName" : "Cornelia",
+  "lastName" : "Meier",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+}, {
+  "firstName" : "Werner",
+  "lastName" : "Meyer",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+}, {
+  "firstName" : "Lydia",
+  "lastName" : "Kunz",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+}, {
+  "firstName" : "Anna",
+  "lastName" : "Best",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+}, {
+  "firstName" : "Stefan",
+  "lastName" : "Meier",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+}, {
+  "firstName" : "Martin",
+  "lastName" : "Mueller",
+  "street" : "Rue du paumé solitaire ",
+  "postalCode" : 666,
+  "city" : "Satan City",
+  "birthday" : {
+    "year" : 1999,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "leapYear" : false,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 52,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE"
+  },
+  "cityProperty" : {
+    "value" : "Satan City",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Satan City"
+  },
+  "streetProperty" : {
+    "value" : "Rue du paumé solitaire ",
+    "bean" : null,
+    "name" : "",
+    "bound" : false,
+    "valueSafe" : "Rue du paumé solitaire "
+  },
+  "postalCodeProperty" : {
+    "value" : 666,
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  },
+  "birthdayProperty" : {
+    "value" : {
+      "year" : 1999,
+      "month" : "FEBRUARY",
+      "monthValue" : 2,
+      "dayOfMonth" : 21,
+      "leapYear" : false,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 52,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "era" : "CE"
+    },
+    "bean" : null,
+    "name" : "",
+    "bound" : false
+  }
+} ]
